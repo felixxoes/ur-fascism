@@ -16,20 +16,20 @@ Because it is enough that one of these features is present to allow fascism to c
 
 ## The List
 
-Cult of Tradition
-Rejection of modernism
-Cult of Action for Action's sake
-Disagreement is treason
-Appealing against intruders
-Appealing to a frustrated middle class
-Obsession with a plot
-Over- and underestimating the enemy
-Live is a struggle
-Contempt for the weak
-Worship of heroism and death
-Disdain of women and nonstandard sexual habits
-Disdain for the separation of power
-Newspeak
+1. Cult of Tradition
+2. Rejection of modernism
+3. Cult of Action for Action's sake
+4. Disagreement is treason
+5. Appealing against intruders
+6. Appealing to a frustrated middle class
+7. Obsession with a plot
+8. Over- and underestimating the enemy
+9. Live is a struggle
+10. Contempt for the weak
+11. Worship of heroism and death
+12. Disdain of women and nonstandard sexual habits
+13. Disdain for the separation of power
+14. Newspeak
 
 ## Eco's warning
 
@@ -37,8 +37,24 @@ Ur-Fascism is still aorund us, sometimes in plainclothes. It would be so much ea
 
 # The Goal of the Project
 
-As Eco says Fascism can coagulate aorund any one of the elememts he identified as features of Ur-Fascism. It should be interesting to look for this features in the societies we live and see how far they are grown. Therefore, the goal of the project is to create a tool, which allows people to do that. 
+As Eco says, Fascism can coagulate aorund any one of the elememts he identified as features of Ur-Fascism. It should be interesting to look for this features in the societies we live in and see how far they are grown. Therefore, the goal of the project is to create a tool, which allows people to evaluate political movements. 
 
-## Steps
+How does this tool work?
+
+Firstly the users choose a political movement they would like to evaluate.
+Secondly they give an estimate for each item on Eco's list. "On a scale of 1 to 6 how strongly is XYZ obsessed with a plot?" 
+Thirdly the tool creates a graphic representation of the evaluation. 
+Finally the result of the individual evaluation is mapped onto all previous evaluations of the movement. 
+
+## Steps 
+
+1. It is necesseray to write very short stories for each item on the list. The story gives the user a clear understanding what is meant. 
+2. It should be decided what is important to know about the people who us the tool. 
+3. Programming the tool
+4. Designing the interface
+5. See how it works
+4. 
+
+
 
 
