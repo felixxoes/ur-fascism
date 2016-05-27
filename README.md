@@ -42,19 +42,17 @@ As Eco says, Fascism can coagulate aorund any one of the elememts he identified 
 How does this tool work?
 
 Firstly the users choose a political movement they would like to evaluate.
+
 Secondly they give an estimate for each item on Eco's list. "On a scale of 1 to 6 how strongly is XYZ obsessed with a plot?" 
+
 Thirdly the tool creates a graphic representation of the evaluation. 
+
 Finally the result of the individual evaluation is mapped onto all previous evaluations of the movement. 
 
 ## Steps 
 
 1. It is necesseray to write very short stories for each item on the list. The story gives the user a clear understanding what is meant. 
 2. It should be decided what is important to know about the people who us the tool. 
-3. Programming the tool
-4. Designing the interface
-5. See how it works
-4. 
-
-
-
-
+3. Programming the tool.
+4. Designing the interface.
+5. See how it works.
