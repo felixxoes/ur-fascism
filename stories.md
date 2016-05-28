@@ -1,6 +1,6 @@
 # Stories 
 
-How to recognize symptoms of ur-fascism
+20 years after Eco wrote his essay: How to recognize symptoms of ur-fascism? 
 
 ## 1. Cult of Tradition
 
@@ -8,27 +8,27 @@ Myths are more important than historical facts. History is glorified as a consta
 
 ## 2. Rejection of modernism
 
-Modern society is depicted as degenerate. Cities are hotspots of sin and crime. The remedy is to return to traditional strong values. 
+Modern society is depicted as degenerate. Cities are hotspots of sin and crime. The remedy is to return to traditional strong values. Believes are better than arguments. 
 
 ## 3. Cult of Action for Action's sake
 
-Reflecting before acting is weak. Enough talk, it is time to act regardless the consequences. We need leaders who act. 
+Reflecting before acting is weak. Enough talk, it is time to act regardless the consequences. Call forleaders who act. 
 
 ## 4. Disagreement is treason
 
-The leader knows what is best for us. Doubts are a sign of weakness. Disagreement is posinous. It is either misguided believe or outright treason. 
+The leader knows what is best for the people. Doubts are a sign of weakness. Disagreement is poisonous. It is either misguided believe or outright treason. 
 
 ## 5. Appealing against intruders
 
-Foreigners are intruders. They  want to profit from  our wealth. Often they are depicted as vermin. 
+Foreigners are intruders. They  want to profit from  the wealth. Often they are depicted as vermin. 
 
 ## 6. Appealing to a frustrated middle class
 
-The family, the small business, the hard working middle class must be protected from overzealous bureaucracy, tax burdens, thieves and parasites.    
+The family, the small business, the hard working middle class is in danger. It must be protected from overzealous bureaucracy, greedy government, tax burdens, thieves and parasites.    
 
 ## 7. Obsession with a plot
 
-The opposition is guided by foreign powers or secret organisations with tremendous wealth and strong beliefs.  
+The opposition is an instrument of foreign powers or secret organisations with tremendous wealth and strong beliefs.  
 
 ## 8. Over- and underestimating the enemy
 
