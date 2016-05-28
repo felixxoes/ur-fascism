@@ -1,4 +1,4 @@
-# Stories 
+# Symptoms 
 
 20 years after Eco wrote his essay: How to recognize symptoms of ur-fascism? 
 
