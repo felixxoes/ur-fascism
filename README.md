@@ -6,7 +6,7 @@ The more important it is to put the term "fasiscm" back on its feet.
 
 But how?
 
-"The fascist game can be played in many forms, and the name of the game does not change," writes Umberto Eco in his article "Ur-Fascism", published in "The New York Times Review of Books" on June 22, 1995 http://www.nybooks.com/articles/1995/06/22/ur-fascism/. "But in spites of this fuzziness, I think is is possible to outline a list of features that are typical of what I would like to call Ur-Fascism, or Eternal Fascism."
+"The fascist game can be played in many forms, and the name of the game does not change," writes Umberto Eco in his article "Ur-Fascism", published in "The New York Times Review of Books" on June 22, 1995 http://www.nybooks.com/articles/1995/06/22/ur-fascism/. "But in spite of this fuzziness, I think is is possible to outline a list of features that are typical of what I would like to call Ur-Fascism, or Eternal Fascism."
 
 Eco admits, that the features cannot be organized into a system: "Many of them contradict each other, and are also typical  of other kinds of despotism or fanaticism." 
 
