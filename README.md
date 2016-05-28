@@ -37,17 +37,15 @@ Ur-Fascism is still aorund us, sometimes in plainclothes. It would be so much ea
 
 # The Goal of the Project
 
-As Eco says, Fascism can coagulate aorund any one of the elememts he identified as features of Ur-Fascism. It should be interesting to look for this features in the societies we live in and see how far they are grown. Therefore, the goal of the project is to create a tool, which allows people to evaluate political movements. 
+As Eco says, Fascism can coagulate aorund any one of the elememts he identified as features of Ur-Fascism. It should be interesting to look for this symptoms in the societies we live in and see how far they are grown. Therefore, the goal of the project is to create a tool, which allows people to evaluate the society they live in. 
 
 How does this tool work?
 
-Firstly the users choose a political movement they would like to evaluate.
+Users give an estimate for each item on Eco's list. The estimate is based on a scale, for example from 1 to 5.  
 
-Secondly they give an estimate for each item on Eco's list. "On a scale of 1 to 6 how strongly is XYZ obsessed with a plot?" 
+When they are done the tool creates a graphic representation of the evaluation. 
 
-Thirdly the tool creates a graphic representation of the evaluation. 
-
-Finally the result of the individual evaluation is mapped onto all previous evaluations of the movement. 
+Finally the result of the individual evaluation is mapped onto all previous evaluations of that society0. 
 
 ## Steps 
 
