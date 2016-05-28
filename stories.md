@@ -4,27 +4,28 @@ How to recognize symptoms of ur-fascism
 
 ## 1. Cult of Tradition
 
-Myths are more important than historical facts. History is glorified as a constant but successful struggle against intruders and for independence. Organisatzions adorn themselves with emblems and artifacts of the glorius past. 
+Myths are more important than historical facts. History is glorified as a constant but successful struggle against intruders and for independence. Organisazions adorn themselves with emblems and artefacts of the glorius past. 
 
 ## 2. Rejection of modernism
 
-Our society is degenerate. To remedy is to return to traditional values which made us strong. 
+Modern society is depicted as degenerate. Cities are hotspots of sin and crime. The remedy is to return to traditional strong values. 
 
 ## 3. Cult of Action for Action's sake
 
-Reflecting before acting is weak. We must act now regardless the consequences. We need leaders who act. 
+Reflecting before acting is weak. Enough talk, it is time to act regardless the consequences. We need leaders who act. 
 
 ## 4. Disagreement is treason
 
-The leader knows whatis best for us. 
+The leader knows what is best for us. Doubts are a sign of weakness. Disagreement is posinous. It is either misguided believe or outright treason. 
 
 ## 5. Appealing against intruders
 
-Foreigners are intruders which want to profit from  our wealth. Often they are depicted as vermin. 
+Foreigners are intruders. They  want to profit from  our wealth. Often they are depicted as vermin. 
 
 ## 6. Appealing to a frustrated middle class
 
-The family, the small businesses, the hard working middle class must be protected from bureaucracy, tax burdens, thieves and parasites.    
+The family, the small business, the hard working middle class must be protected from overzealous bureaucracy, tax burdens, thieves and parasites.    
+
 ## 7. Obsession with a plot
 
 The opposition is guided by foreign powers or secret organisations with tremendous wealth and strong beliefs.  
@@ -35,11 +36,11 @@ The enemie is richer and better equipped. But he is also degenerated and therefo
 
 ## 9. Live is a struggle
 
-Life is preperation for war or permanent warfare. Who is not for us is against us. Pacifism is a sign of weakness. 
+Life is preperation for war and permanent warfare. Who is not for us is against us. Compromise is a sign of weakness, pacifism is a curse. 
 
 ## 10. Contempt for the weak
 
-Poverty and sickness are a consequences of moral weakness. it is their own fault.   
+Poverty and sickness are consequences of moral weakness. Real refugies and real victims deserve help but most are freeloaders.     
 
 ## 11. Worship of heroism and death
 
@@ -47,13 +48,12 @@ Dying for the cause is the ultimate, heroic sacrifice. Beeing right and loosing 
 
 ## 12. Disdain of women and nonstandard sexual habits
 
-The family is sacred. Sexual freedom is degenerate. Homosexuality is a sickness or must be punished.      
+The family is sacred. Sexual freedom is degenerate. Homosexuality and other non-standard sexual habits are condemned and punished. 
 
 ## 13. Disdain for the separation of power
 
-Democratically elected parliaments and governments are becoming suspect, they do not represent the will of the people. Courts are willing servants of the ruling class. The system is corrupt and must be cleansed. 
+Democratically elected parliaments and governments are becoming suspect. It becomes doubtful that they  represent the true will of the people. Courts are willing servants of the ruling class. The system is corrupt and must be cleansed. 
 
 ## 14. Newspeak
 
-Whoever critzies the party or the movement is   
-
+Whoever critzies the party or the movement is ridiculed and taunted. Schoolbooks are cleansed of deviating content and rewritten.
